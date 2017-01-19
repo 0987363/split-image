@@ -1,6 +1,6 @@
 # split-image
 
-linuxÏÂ·Ö¸îÂş»­
+linuxåˆ†å‰²æ¼«ç”»
 
 ./run.sh src_dir dst_dir
 
